@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SandarbhParoha
 -  **Advanced Python Programmer and developer**
-- Machine learning and Artificial intelligene aspirant.
+- Machine learning and Artificial intelligence aspirant.
 - 🌱 I’m currently learning Various Frameworks to generalise my coding strategies.
 
 
